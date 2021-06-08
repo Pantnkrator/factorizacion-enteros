@@ -1,0 +1,17 @@
+objetivos general
+estudiar los metodos de factorizacion mediante la comparacion del desempe;o con numeros
+especificos
+identificar
+Probar el limite de factorizacion
+--
+implementar los algoritmos
+generar los numeros
+proponer el refinamiento
+
+Sin Hipotesis
+tiempo
+memoria
+sin justi social
+justificacion cientifica
+muuy retorica
+justificacion teorica sin trabbajos similares
